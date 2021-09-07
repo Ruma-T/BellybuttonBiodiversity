@@ -92,8 +92,8 @@ function plots(id) {
             title: "Bacteria Cultures Per Sample",
             xaxis: { title: "OTU ID" },
             hovermode: "closest",
-            height: 600,
-            width: 1200
+            height: 550,
+            width: 1100
 
         };
 
